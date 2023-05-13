@@ -13,13 +13,13 @@
 
 
 ### 使用方法
-* 加载数据：
-    `load_data.py`:
-        * `digest_doc`: 基于最小信息量模型，从纯文本里提取id和时间戳等必要信息。
-        * `load_std_data`: 从符合最小信息量模型的数据里加载数据。
-* 检索病历：
-    `query_record.py`: 找出符合要求的病历记录
-* 回答问题：
-    `answer_question.py`: 根据病历记录回答查询问题
-* 示例:
+* 加载数据：  
+    `load_data.py`:  
+        - `digest_doc`: 基于最小信息量模型，从纯文本里提取id和时间戳等必要信息。  
+        - `load_std_data`: 从符合最小信息量模型的数据里加载数据。  
+* 检索病历：  
+    `query_record.py`: 找出符合要求的病历记录  
+* 回答问题：  
+    `answer_question.py`: 根据病历记录回答查询问题  
+* 示例:  
 见`example.py`
