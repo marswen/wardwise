@@ -1,7 +1,7 @@
 # Wardwise
-A ward round assistant who helps medical personnel to query medical record data with LLM
 
 中文 | [English](README.md)
+
 
 ### 背景
 * 医务人员在查房会诊等临床行为中需要频繁查询患者的检查结果和进展情况。
