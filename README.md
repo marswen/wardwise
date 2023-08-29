@@ -17,7 +17,7 @@ A ward round assistant who helps medical personnel to query medical record data 
 
 ### How to use
 * Load Data:  
-    `load_data.py`:
+    `load_data.py`:    
         - `digest_doc`: Extract essential information such as ID and timestamps from plain text based on the minimal information model.  
         - `load_std_data`: Load data in standard fields.  
 * Retrieve Medical Records:  
