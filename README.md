@@ -1,4 +1,7 @@
 # Wardwise
+A ward round assistant who helps medical personnel to query medical record data with LLM
+
+[中文](README_zh.md) | English
 
 ### Background
 * In clinical activities such as ward rounds and consultations, medical staff need to frequently query patients' test results and progress.
